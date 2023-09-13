@@ -15,7 +15,7 @@ I'm Kumar Aniket, a passionate software engineer/Developer and Football freak. M
 - 📱 React Native.
 - ☁️ AWS, Azure, Google Cloud.
 - 🛠️ Docker, Kubernetes.
-- 📊 SQL, NoSQL, and data analysis tools.
+- 📊 SQL, NoSQL.
 - 🛡️ Git, CI/CD pipelines.
 
 ### 📫 Let's Connect
