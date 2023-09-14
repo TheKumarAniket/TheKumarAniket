@@ -10,7 +10,7 @@ I'm Kumar Aniket, a passionate software engineer/Developer and Football freak. M
 
 ### 🔧 Tech Stack
 
-- 🌟 JavaScript, Python, Java.
+- 🌟 Python, Java.
 - 🌐 React, Node.js, Django.
 - 📱 React Native.
 - ☁️ AWS, Azure, Google Cloud.
