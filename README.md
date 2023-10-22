@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hello, out there! 👋
 
 I'm Kumar Aniket, a passionate software engineer/Developer and Football freak. My journey in the world of code began when I wrote my first "Hello, World!" program, and I've been exploring the ever-expanding universe of technology ever since.
 
