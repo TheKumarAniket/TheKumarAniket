@@ -1,22 +1,28 @@
 ## Hello, out there! 👋
 
-I'm Kumar Aniket, a passionate software engineer/Developer and Football freak. My journey in the world of code began when I wrote my first "Hello, World!" program, and I've been exploring the ever-expanding universe of technology ever since.
+Hey there! Welcome to my DevOps Engineer portfolio. This is where I show off my skills, projects, and contributions in the world of DevOps. Want to know about my experience with automation, managing infrastructure, CI/CD pipelines, cloud services, and more? You're in the right place!
 
-### 🚀 What I Do
+Let me tell you a bit about myself. I a DevOps Engineer who loves designing, implementing, and managing scalable infrastructure and CI/CD pipelines. My aim? Bringing development and operations together through teamwork and automation.
 
-- 💻 MERN-stack developer with expertise in both frontend and backend technologies.
-- 🌐 Web enthusiast, building web applications with modern frameworks and libraries.
-- 🌐 Open-source enthusiast, contributing to the community and sharing knowledge.
+Here are some of the I'm good at:
 
-### 🔧 Tech Stack
+Automation: Ansible, Terraform, Jenkins, GitLab CI/CD
 
-- 🌟 Python, Java.
-- 🌐 React, Node.js, Django.
-- 📱 React Native.
-- ☁️ AWS, Azure, Google Cloud.
-- 🛠️ Docker, Kubernetes.
-- 📊 SQL, NoSQL.
-- 🛡️ Git, CI/CD pipelines.
+Cloud Services: AWS, Google Cloud Platform (GCP), Microsoft Azure
+
+Containerization: Docker, Kubernetes
+
+Infrastructure Management: Terraform, CloudFormation
+
+Monitoring & Logging: Prometheus, Grafana, ELK Stack
+
+Configuration Management: Ansible
+
+Version Control: Git, GitHub, GitLab
+
+Scripting Languages: Bash, Python
+
+Operating Systems: Linux (Ubuntu, CentOS), Windows Server
 
 ### 📫 Let's Connect
 I'm always open to collaborating on exciting projects, discussing tech trends, or just having a good old geeky chat. Feel free to reach out to me via kumaraniket416@gmail.com or connect with me on www.linkedin.com/in/thekumaraniket
