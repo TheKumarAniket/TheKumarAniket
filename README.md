@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my DevOps Engineer portfolio. This is where I show off my skills, projects, and contributions in the world of DevOps. Want to know about my experience with automation, managing infrastructure, CI/CD pipelines, cloud services, and more? You're in the right place!
 
-Let me tell you a bit about myself. I a DevOps Engineer who loves designing, implementing, and managing scalable infrastructure and CI/CD pipelines. My aim? Bringing development and operations together through teamwork and automation.
+Let me tell you a bit about myself. I'm a DevOps Engineer who loves designing, implementing, and managing scalable infrastructure and CI/CD pipelines. My aim? Bringing development and operations together through teamwork and automation.
 
 Here are some of the I'm good at:
 
